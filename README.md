@@ -1,2 +1,2 @@
 # Mystic-Library-Music.
-nothing
+Add an optional description (e.g., "Background music for the Mystic Library puzzle game").
